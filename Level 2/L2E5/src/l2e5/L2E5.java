@@ -27,7 +27,7 @@ public class L2E5 {
             sum += array[i];
             
         }
-        System.out.print("Their Total = "+sum);
+        System.out.println("Their Total = "+sum);
 
         
     }
