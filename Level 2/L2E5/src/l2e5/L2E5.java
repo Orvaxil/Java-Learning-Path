@@ -14,7 +14,7 @@ public class L2E5 {
         int arraylength = n.nextInt();
         int[] array = new int[arraylength];
         int sum = 0;
-        System.out.println("Enter "+arraylength+" Items to the array: ");
+        System.out.println("Enter "+arraylength+" numbers to the array: ");
         
         for(int i = 0; i<arraylength;i++){
             array[i] = n.nextInt();
