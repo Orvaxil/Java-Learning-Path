@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 
 /*   لاني استعنت بشات كثير وما عرفت اغلب الاشياء 6/10 */
-
+//
 
 class car {
     String model;
